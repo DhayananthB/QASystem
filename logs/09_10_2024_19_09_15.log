@@ -25,3 +25,92 @@
 [2024-09-10 19:35:21,375] 34 root - INFO - 
 [2024-09-10 19:37:22,929] 17 root - INFO - data loading started...
 [2024-09-10 19:37:22,930] 23 root - INFO - exception in loading data...
+[2024-09-10 19:43:22,600] 17 root - INFO - data loading started...
+[2024-09-10 19:43:22,601] 23 root - INFO - exception in loading data...
+[2024-09-10 19:48:57,387] 17 root - INFO - Data loading started...
+[2024-09-10 19:48:57,590] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 7 0 (offset 0)
+[2024-09-10 19:48:57,590] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 9 0 (offset 0)
+[2024-09-10 19:48:57,590] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 11 0 (offset 0)
+[2024-09-10 19:48:57,592] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 15 0 (offset 0)
+[2024-09-10 19:48:57,592] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 17 0 (offset 0)
+[2024-09-10 19:48:57,592] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 19 0 (offset 0)
+[2024-09-10 19:48:57,592] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 21 0 (offset 0)
+[2024-09-10 19:48:57,592] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 23 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 30 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 32 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 38 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 40 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 46 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 48 0 (offset 0)
+[2024-09-10 19:48:57,593] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 50 0 (offset 0)
+[2024-09-10 19:48:57,594] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 52 0 (offset 0)
+[2024-09-10 19:48:57,594] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 56 0 (offset 0)
+[2024-09-10 19:48:57,594] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 58 0 (offset 0)
+[2024-09-10 19:48:57,594] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 63 0 (offset 0)
+[2024-09-10 19:48:57,594] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 65 0 (offset 0)
+[2024-09-10 19:48:57,594] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 67 0 (offset 0)
+[2024-09-10 19:48:57,595] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 70 0 (offset 0)
+[2024-09-10 19:48:57,595] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 77 0 (offset 0)
+[2024-09-10 19:48:57,595] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 79 0 (offset 0)
+[2024-09-10 19:48:57,595] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 81 0 (offset 0)
+[2024-09-10 19:48:57,595] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 85 0 (offset 0)
+[2024-09-10 19:48:57,595] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 87 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 89 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 91 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 99 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 101 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 103 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 107 0 (offset 0)
+[2024-09-10 19:48:57,596] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 115 0 (offset 0)
+[2024-09-10 19:48:57,597] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 117 0 (offset 0)
+[2024-09-10 19:48:57,597] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 119 0 (offset 0)
+[2024-09-10 19:48:57,597] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 123 0 (offset 0)
+[2024-09-10 19:48:57,597] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 125 0 (offset 0)
+[2024-09-10 19:48:57,597] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 127 0 (offset 0)
+[2024-09-10 19:48:57,597] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 131 0 (offset 0)
+[2024-09-10 19:48:57,598] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 133 0 (offset 0)
+[2024-09-10 19:48:57,598] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 135 0 (offset 0)
+[2024-09-10 19:48:57,598] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 137 0 (offset 0)
+[2024-09-10 19:48:57,598] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 143 0 (offset 0)
+[2024-09-10 19:48:57,598] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 145 0 (offset 0)
+[2024-09-10 19:48:57,598] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 149 0 (offset 0)
+[2024-09-10 19:48:57,599] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 153 0 (offset 0)
+[2024-09-10 19:48:57,599] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 155 0 (offset 0)
+[2024-09-10 19:48:57,599] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 162 0 (offset 0)
+[2024-09-10 19:48:57,599] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 164 0 (offset 0)
+[2024-09-10 19:48:57,599] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 168 0 (offset 0)
+[2024-09-10 19:48:57,599] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 170 0 (offset 0)
+[2024-09-10 19:48:57,600] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 179 0 (offset 0)
+[2024-09-10 19:48:57,600] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 181 0 (offset 0)
+[2024-09-10 19:48:57,600] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 189 0 (offset 0)
+[2024-09-10 19:48:57,600] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 191 0 (offset 0)
+[2024-09-10 19:48:57,600] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 199 0 (offset 0)
+[2024-09-10 19:48:57,601] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 201 0 (offset 0)
+[2024-09-10 19:48:57,601] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 208 0 (offset 0)
+[2024-09-10 19:48:57,601] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 210 0 (offset 0)
+[2024-09-10 19:48:57,601] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 214 0 (offset 0)
+[2024-09-10 19:48:57,601] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 216 0 (offset 0)
+[2024-09-10 19:48:57,602] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 226 0 (offset 0)
+[2024-09-10 19:48:57,602] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 230 0 (offset 0)
+[2024-09-10 19:48:57,602] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 232 0 (offset 0)
+[2024-09-10 19:48:57,602] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 236 0 (offset 0)
+[2024-09-10 19:48:57,602] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 238 0 (offset 0)
+[2024-09-10 19:48:57,602] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 242 0 (offset 0)
+[2024-09-10 19:48:58,132] 30 root - INFO - Data loading completed...
+[2024-09-10 19:48:59,646] 21 root - INFO - 
+[2024-09-10 19:48:59,653] 30 root - INFO - 
+[2024-09-10 19:49:10,482] 34 root - INFO - 
+[2024-09-10 19:51:09,491] 17 root - INFO - Data loading started...
+[2024-09-10 19:51:09,518] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 7 0 (offset 0)
+[2024-09-10 19:51:09,518] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 9 0 (offset 0)
+[2024-09-10 19:51:09,518] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 11 0 (offset 0)
+[2024-09-10 19:51:09,519] 463 pypdf._reader - WARNING - Ignoring wrong pointing object 14 0 (offset 0)
+[2024-09-10 19:51:09,721] 30 root - INFO - Data loading completed...
+[2024-09-10 19:51:11,420] 21 root - INFO - 
+[2024-09-10 19:51:11,431] 30 root - INFO - 
+[2024-09-10 19:51:13,293] 34 root - INFO - 
+[2024-09-10 19:51:40,022] 17 root - INFO - Data loading started...
+[2024-09-10 19:51:40,065] 30 root - INFO - Data loading completed...
+[2024-09-10 19:51:41,628] 21 root - INFO - 
+[2024-09-10 19:51:41,635] 30 root - INFO - 
+[2024-09-10 19:51:47,255] 34 root - INFO - 
